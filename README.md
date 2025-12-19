@@ -8,6 +8,16 @@ Features a responsive layout with services, pricing, featured treatments, and an
 - CSS3
 
 ## Project Structure
+Bright-Smile-Dental-Clinic/
+│
+├─ dentist.html
+├─ dentist.css
+├─ favicon.ico
+├─ images/
+│ ├─ header-img.jpg
+│ ├─ img1.jpg
+│ ├─ img2.jpg
+│ └─ ... (all gallery images)
 
 ## Features
 - Responsive navigation bar
